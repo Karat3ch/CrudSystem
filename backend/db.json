@@ -1,14 +1,24 @@
 {
-    "users": [
+  "users": [
     {
-        "id":1,
-        "nome": "Bruno Pereira",
-        "email": "bpereira@email.com.br" 
+      "id": 1,
+      "email": "bpereira@temail.com.br",
+      "name": "Bruno Pereira"
     },
     {
-        "id":2,
-        "nome": "Rodrigo Silva",
-        "email": "rsilva@email.com.br"
+      "id": 2,
+      "email": "rsilva@email.com.br",
+      "name": "Rodrigo Silva"
+    },
+    {
+      "name": "Silvia Pereira",
+      "email": "spereira@email.com",
+      "id": 3
+    },
+    {
+      "name": "Roberto Leão",
+      "email": "rleao@negocio.com.br",
+      "id": 4
     }
-]
+  ]
 }
